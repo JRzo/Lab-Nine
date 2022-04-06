@@ -1,0 +1,47 @@
+body{
+    background-color: beige;
+    color: #f76a28;
+}
+
+.container{
+    background-color: rgb(172, 154, 129);
+    color: rgb(24, 18, 18);
+    width: 80%;
+    margin: auto;
+}
+h2{
+    width: 50%;
+    color: black;
+    text-align: center;
+    margin: auto;
+    position: relative;
+    top: 16px;
+}
+.aboutMajor, .gallery{
+    background-color: #e0e9b0;
+    width: auto;
+    text-align: center;
+    margin: 6%;
+}
+.aboutMajor p, .gallery p{
+    color: #000;
+    font-family: 'Grape Nuts';
+    font-size: 20px;
+    font-variant: normal;
+    margin: 8%;
+    padding: 2%;
+}
+.aboutMajor h5, .gallery h5{
+    color: #000;
+    position: relative;
+    top: 20px;
+    font-size: 25px;
+}
+.navbar{
+    background-color: #000;
+}
+footer{
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
